@@ -71,3 +71,9 @@ pip install -r requirements.txt
 ✅ Final Advisory:
 - High temperature detected. Stay hydrated and avoid outdoor activities.
 - Risk of dehydration. Keep emergency supplies ready.
+
+---
+
+## 📝 License
+
+MIT License – free to use, modify, and share with credit.
